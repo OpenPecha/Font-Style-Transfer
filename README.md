@@ -17,4 +17,4 @@ To create synthetic data for OCR we are exploring Font Style Transfer method.
 
 <!-- Update the link to the docs -->
 
-https://docs.google.com/document/d/1PzTiKi-n1jN6gngmoW9IRG_xJgSd0L787sQycoKOME4/edit
+
